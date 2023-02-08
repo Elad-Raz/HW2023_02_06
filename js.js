@@ -31,7 +31,7 @@ if (!isNaN(age)) {
     alert("medium");
   }
   if (age >= 41 && age <= 80) {
-    alert("lage");
+    alert("large");
   }
   if (age >= 81 && age <= 119) {
     alert("extra large");
